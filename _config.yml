@@ -1,0 +1,28 @@
+name: vocalfreq
+favicon: null
+layout_spectrum: 0.9563355844002217
+typography_spectrum: 0.028999241068959236
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.03197674895636737
+  lightness: 0.14407240855507553
+  saturation: 0.3849048677366227
+  rhythmicContrast: 0.37185485870577395
+purpose: []
