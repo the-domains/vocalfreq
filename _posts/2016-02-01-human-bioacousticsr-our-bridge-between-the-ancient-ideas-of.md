@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'As a bridge between in ancient ideas of sound healing and the futuristic, Star Trek, protocols that the institute provides, it is now possible to reverse diseases and traumas previously thought to be incurable, to reveal the secrets of our true nature, to enhance our lives, to predict what may be our fate through the frequencies of our voice'
-datePublished: '2016-02-01T03:58:58.771Z'
-dateModified: '2016-02-01T03:57:22.728Z'
+datePublished: '2016-02-01T07:06:44.212Z'
+dateModified: '2016-02-01T07:06:27.346Z'
 title: "Human BioAcoustics® Our bridge between the ancient ideas of sound healing and the futuristic Star Trek.\_"
 author: []
+sourcePath: _posts/2016-02-01-human-bioacousticsr-our-bridge-between-the-ancient-ideas-of.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-human-bioacousticsr-our-bridge-between-the-ancient-ideas-of.md
-published: true
 url: human-bioacousticsr-our-bridge-between-the-ancient-ideas-of/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65dc2829-4197-4b79-b42c-48b288c7b89b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b17eb5af25278d100b8444e7ef388278a39e6fb2.jpg)
 
 # Human BioAcoustics(r) Our bridge between the ancient ideas of sound healing and the futuristic Star Trek. 
 
@@ -39,14 +39,6 @@ sorted, routed and assigned an interpretation but it seems, in modern times, tha
 carry very little conscious awareness of this information. Did we as a human race forget,
 or were we politically forced to abandon, a great deal of our intrinsic abilities that allow
 us to glean information about another person simply by hearing their voice? 
-
-Sharry Edwards, M.Ed., wants to reawaken this innate ability for the People. She has
-been tested in university and military labs that substantiate that her hearing abilities are
-very unique. This "talent" has allowed her to move forward to computerize the tenets
-of BioAcoustic Biology which dictate that the frequencies of our words can be used to
-support the idea of SELF-HEALTH. As the Director of the Institute, and against great odds, she shares and
-teaches others how to emulate her intrinsic ability so that everyone can reveal the secrets
-hidden deep within their own voice. 
 > 
 > "You never change things by fighting reality.
 > To change something, build a new model that makes the existing model obsolete" ~Buckminster Fuller 
