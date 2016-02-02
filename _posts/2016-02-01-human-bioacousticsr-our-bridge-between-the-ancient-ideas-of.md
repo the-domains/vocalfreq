@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'As a bridge between in ancient ideas of sound healing and the futuristic, Star Trek, protocols that the institute provides, it is now possible to reverse diseases and traumas previously thought to be incurable, to reveal the secrets of our true nature, to enhance our lives, to predict what may be our fate through the frequencies of our voice'
-datePublished: '2016-02-01T07:06:44.212Z'
-dateModified: '2016-02-01T07:06:27.346Z'
+datePublished: '2016-02-02T15:43:23.564Z'
+dateModified: '2016-02-02T15:37:09.503Z'
 title: "Human BioAcoustics® Our bridge between the ancient ideas of sound healing and the futuristic Star Trek.\_"
 author: []
 sourcePath: _posts/2016-02-01-human-bioacousticsr-our-bridge-between-the-ancient-ideas-of.md
@@ -43,9 +43,13 @@ us to glean information about another person simply by hearing their voice?
 > "You never change things by fighting reality.
 > To change something, build a new model that makes the existing model obsolete" ~Buckminster Fuller 
 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac205dde-29a4-4484-bda0-1bdc6dff0284.jpg)
+
 **Knowing your own voice takes on new meaning if you begin to consider the possibility
 that the sounds of your voice may be a holographic representation of all that you are, all
-that you can be.** Imagine a future in which our individual vocal frequencies represent
+that you can be.**
+
+Imagine a future in which our individual vocal frequencies represent
 our identification; where the use of frequency based biomarkers contained within our
 voice can be used to keep us healthy and emotionally balanced.
 From birth to death, we use sounds to express our needs and emotions but there are
