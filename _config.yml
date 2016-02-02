@@ -1,7 +1,7 @@
 name: vocalfreq
 favicon: null
-layout_spectrum: 0.29931
-typography_spectrum: 1
+layout_spectrum: 0.71952
+typography_spectrum: 0.4535
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#01a0b3'
     - '#d5c4b2'
     - '#581000'
-  brandStrength: 0.5
+  brandStrength: 0.75
   lightness: 0.5
-  saturation: 1
+  saturation: 0.375
   rhythmicContrast: 1
 purpose: []
