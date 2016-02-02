@@ -1,6 +1,6 @@
 name: vocalfreq
 favicon: null
-layout_spectrum: 0.980855
+layout_spectrum: 0.29931
 typography_spectrum: 1
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#280808'
-    - '#8898A0'
-    - '#C81008'
-    - '#F8D060'
-  brandStrength: 0.3125
-  lightness: 0.5
+    - '#e54e6d'
+    - '#82a803'
+    - '#01a0b3'
+    - '#d5c4b2'
+    - '#581000'
+  brandStrength: 0.875
+  lightness: 0.4375
   saturation: 0.125
-  rhythmicContrast: 1
+  rhythmicContrast: 0.25
 purpose: []
