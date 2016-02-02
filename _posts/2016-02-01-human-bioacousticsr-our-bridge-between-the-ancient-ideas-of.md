@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'As a bridge between in ancient ideas of sound healing and the futuristic, Star Trek, protocols that the institute provides, it is now possible to reverse diseases and traumas previously thought to be incurable, to reveal the secrets of our true nature, to enhance our lives, to predict what may be our fate through the frequencies of our voice'
-datePublished: '2016-02-02T15:43:23.564Z'
+datePublished: '2016-02-02T15:43:23.593Z'
 dateModified: '2016-02-02T15:37:09.503Z'
 title: "Human BioAcoustics® Our bridge between the ancient ideas of sound healing and the futuristic Star Trek.\_"
 author: []
