@@ -2,12 +2,13 @@ name: vocalfreq
 favicon: null
 layout_spectrum: 0.67766
 typography_spectrum: 0.87313
+title: VOCAL FREQ
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74126437-1
   facebook: null
   twitter: null
 opengraph:
