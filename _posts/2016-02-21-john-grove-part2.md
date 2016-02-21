@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is "john Grove part2" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-02-21T19:32:18.231Z'
-dateModified: '2016-02-21T19:32:08.016Z'
+datePublished: '2016-02-21T20:08:37.100Z'
+dateModified: '2016-02-21T19:32:24.919Z'
 author:
   - name: Sharry Edwards
     url: 'http://vimeo.com/user23961032'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: john Grove part2
+sourcePath: _posts/2016-02-21-john-grove-part2.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-02-21-john-grove-part2.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
