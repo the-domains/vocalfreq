@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://vimeo.com/126493768'
 inLanguage: null
 starred: false
 keywords: []
-description: 'This is "john Grove part2" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-02-21T20:08:37.100Z'
-dateModified: '2016-02-21T19:32:24.919Z'
+description: 'JOHN G - Business Owner - Cincinnati, Ohio - Recovery from severed nerve during surgery - is now a BioAcoustic Provider'
+datePublished: '2016-02-21T20:10:12.318Z'
+dateModified: '2016-02-21T20:10:01.032Z'
 author:
   - name: Sharry Edwards
     url: 'http://vimeo.com/user23961032'
@@ -41,7 +41,7 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: john Grove part2
+title: Severed Nerve RECOVERY with Sound
 sourcePath: _posts/2016-02-21-john-grove-part2.md
 published: true
 authors: []
