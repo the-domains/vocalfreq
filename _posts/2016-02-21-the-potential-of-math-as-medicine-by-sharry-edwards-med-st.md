@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/index-material.html'
 inLanguage: null
 starred: false
 keywords: []
 description: 'The Potential of Math as Medicine by Sharry Edwards, MEd  Studies conducted by the non-profit Institute of BioAcoustic Biology, located in Albany, Ohio,  USA, h'
-datePublished: '2016-02-21T21:11:24.632Z'
-dateModified: '2016-02-21T20:48:56.176Z'
+datePublished: '2016-02-26T06:48:42.923Z'
+dateModified: '2016-02-26T06:48:42.570Z'
 author: []
 title: "The Potential of Math as Medicine\_"
 sourcePath: _posts/2016-02-21-the-potential-of-math-as-medicine-by-sharry-edwards-med-st.md
@@ -19,15 +18,14 @@ publisher:
   domain: mhjfbmdgcfjbbpaeojofohoefgiehjai
   url: null
   favicon: null
+url: the-potential-of-math-as-medicine/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4ad3c5e-2fa2-4e5c-ba8f-4f38c3289e10.jpg)
 
-# The Potential of Math as Medicine 
-
-by Sharry Edwards, MEd 
+## The Potential of Math as Medicine by Sharry Edwards, MEd 
 
 _Studies conducted by the non-profit Institute of BioAcoustic Biology, located in Albany, Ohio, USA, has shown that persons with similar stresses, toxins, diseases, traumas, genetic syndromes, deficiencies...have similar, if not identical, vocal anomalies showing that math can be much more than a measurement tool. Math, as a frequency matrix, can serve as the template to perceive and manage health and wellness._
 
