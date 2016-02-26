@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords: []
 description: 'This is "Miracles of Non-Medicine" by on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
@@ -40,13 +40,16 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/126935179'
 title: Miracles of Non-Medicine
-datePublished: '2016-02-21T20:11:15.875Z'
-dateModified: '2016-02-21T20:10:38.187Z'
+datePublished: '2016-02-26T06:48:59.923Z'
+dateModified: '2016-02-21T20:11:32.714Z'
 sourcePath: _posts/2016-02-21-miracles-of-non-medicine.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
