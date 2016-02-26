@@ -40,15 +40,15 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/126935179'
 title: Miracles of Non-Medicine
-datePublished: '2016-02-26T06:48:59.923Z'
-dateModified: '2016-02-21T20:11:32.714Z'
+datePublished: '2016-02-26T07:08:08.124Z'
+dateModified: '2016-02-26T07:04:02.935Z'
 sourcePath: _posts/2016-02-21-miracles-of-non-medicine.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 authors: []
 _type: VideoObject
 _context: 'http://schema.org'
